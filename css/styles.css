@@ -81,7 +81,7 @@ body, h1, ul, li, form {
   /* Style the nutrition section */
   #nutritionSection {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
   }
